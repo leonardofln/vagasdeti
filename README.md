@@ -28,4 +28,4 @@
 - [Vagas de Dev](https://twitter.com/VagasDev)
 
 # Vagas no GitHub
-- [Vagas para desenvolvedores Back-End](https://github.com/backend-br/vagas/issues) <= Espaço para a divulgação de vagas para desenvolvedores via issues do Github
+- [Vagas para desenvolvedores Back-End](https://github.com/backend-br/vagas/issues) <= Divulgação de vagas para desenvolvedores via issues do GitHub
