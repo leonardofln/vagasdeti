@@ -18,6 +18,13 @@
 - https://www.acate.com.br/vagas
 - https://hipsters.jobs/jobs
 - https://vagas.hunterco.com.br
+- https://programathor.com.br/jobs
+- https://www.jobbol.com.br
+- https://www.jobatus.com.br
+- https://trampos.co/oportunidades
+- https://br.trabajo.org
+- https://jobinice.com
+- https://www.empregos.com.br
 
 # Grupos no Telegram
 - [Vagas de TI Brasil](https://t.me/VagasBRTI)
