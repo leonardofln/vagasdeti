@@ -25,3 +25,4 @@
 
 # Vagas no Twitter
 - [Vi uma vaga (Tech/IA/Dev/UX)](https://twitter.com/viumavaga) <= BOT que compartilha vagas quando ele é marcado
+- [Vagas de Dev](https://twitter.com/VagasDev)
