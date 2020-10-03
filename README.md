@@ -1,6 +1,4 @@
 # Sites de Vagas
-Uma lista de sites de vagas (prioritariamente vagas de tecnologia da informação)
-
 - https://vagas.sc 
 - https://www.curriculum.com.br 
 - https://www.glassdoor.com.br 
@@ -19,3 +17,8 @@ Uma lista de sites de vagas (prioritariamente vagas de tecnologia da informaçã
 - https://neuvoo.com.br 
 - https://www.acate.com.br/vagas
 - https://hipsters.jobs/jobs
+
+# Grupos no Telegram
+- [Vagas de TI Brasil](https://t.me/VagasBRTI)
+- [PHP Brasil Vagas](https://t.me/phpbrasilvagas)
+- [[VAGAS] Floripa Startups](https://t.me/vagasfloripastartups)
