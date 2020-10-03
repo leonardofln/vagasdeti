@@ -17,6 +17,7 @@
 - https://neuvoo.com.br 
 - https://www.acate.com.br/vagas
 - https://hipsters.jobs/jobs
+- https://vagas.hunterco.com.br
 
 # Grupos no Telegram
 - [Vagas de TI Brasil](https://t.me/VagasBRTI)
