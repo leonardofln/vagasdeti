@@ -26,3 +26,6 @@
 # Vagas no Twitter
 - [Vi uma vaga (Tech/IA/Dev/UX)](https://twitter.com/viumavaga) <= BOT que compartilha vagas quando ele é marcado
 - [Vagas de Dev](https://twitter.com/VagasDev)
+
+# Vagas no GitHub
+- [Vagas para desenvolvedores Back-End](https://github.com/backend-br/vagas/issues) <= Espaço para a divulgação de vagas para desenvolvedores via issues do Github
