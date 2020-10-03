@@ -22,3 +22,6 @@
 - [Vagas de TI Brasil](https://t.me/VagasBRTI)
 - [PHP Brasil Vagas](https://t.me/phpbrasilvagas)
 - [[VAGAS] Floripa Startups](https://t.me/vagasfloripastartups)
+
+# Vagas no Twitter
+- [Vi uma vaga (Tech/IA/Dev/UX)](https://twitter.com/viumavaga) <= BOT que compartilha vagas quando ele é marcado
