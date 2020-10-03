@@ -25,6 +25,7 @@
 - https://br.trabajo.org
 - https://jobinice.com
 - https://www.empregos.com.br
+- https://nerdin.com.br/vagas
 
 # Grupos no Telegram
 - [Vagas de TI Brasil](https://t.me/VagasBRTI)
