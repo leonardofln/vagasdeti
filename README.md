@@ -49,4 +49,6 @@
 - [Vagas de Dev](https://twitter.com/VagasDev)
 
 # Vagas no GitHub
-- [Vagas para desenvolvedores Back-End](https://github.com/backend-br/vagas/issues) <= Divulgação de vagas para desenvolvedores via issues do GitHub
+- [Vagas para desenvolvedores Back-End](https://github.com/backend-br/vagas/issues) <= Divulgação de vagas para desenvolvedores backend via issues do GitHub
+- [Vagas para desenvolvedores Front-End](https://github.com/frontendbr/vagas/issues) <= Divulgação de vagas para desenvolvedores frontend via issues do GitHub
+- [Índice de repositórios com vagas para desenvolvedores](https://github.com/topics/vagas-para-desenvolvedores) <= Vários repositórios no github com vagas de todos os tipos para desenvolvedores
