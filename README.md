@@ -33,6 +33,16 @@
 - [Vagas de TI Brasil](https://t.me/VagasBRTI)
 - [PHP Brasil Vagas](https://t.me/phpbrasilvagas)
 - [[VAGAS] Floripa Startups](https://t.me/vagasfloripastartups)
+- [VAGAS TI CONSULTORIAS](https://t.me/vagas_consultoria_TI)
+- [Vagas Para Tecnologia](https://t.me/VagasParaTecnologia)
+- [Vagas TI Brasil](https://t.me/ti_vagas)
+- [BNE: Vagas de emprego](https://t.me/bneempregos)
+- [Busque o Melhor - Vagas TI - Desenvolvedores](https://t.me/busqueomelhor)
+- [Vagas de TI São Paulo](https://t.me/vagas_ti_SP)
+- [VAGAS EM SC](https://t.me/VAGASEMSC)
+- [Vagas de Trabalho](https://t.me/vagasdetrabalho)
+- [Cafeína Vagas - Iniciantes em TI](https://t.me/CafeinaVagas)
+- [Infovagas - Oportunidades TI](https://t.me/infovagas_ti)
 
 # Vagas no Twitter
 - [Vi uma vaga (Tech/IA/Dev/UX)](https://twitter.com/viumavaga) <= BOT que compartilha vagas quando ele é marcado
