@@ -28,6 +28,7 @@
 - https://nerdin.com.br/vagas
 - https://empregos.trovit.com.br
 - https://www.vagasti.tech
+- https://portaldevagas.solides.jobs
 
 # Grupos no Telegram
 - [Vagas de TI Brasil](https://t.me/VagasBRTI)
